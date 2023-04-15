@@ -1,0 +1,2 @@
+plugin_lecture/Position position
+sensor_msgs/Image data
